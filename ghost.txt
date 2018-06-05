@@ -963,4 +963,19 @@
 <item-3>name="בוב ספוג פרק 2"&link="https://archive.org/download/spongbob_201806/%D7%91%D7%95%D7%91%D7%A1%D7%A4%D7%95%D7%92%20%D7%A2%D7%95%D7%A0%D7%94%208%20%D7%A4%D7%A8%D7%A7%202.mp4"&icon="https://m.media-amazon.com/images/M/MV5BNTk2NzEyNTQtZTQ5MS00MjAyLTgzMDMtNDNkYTBkM2M2OTU3XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg"&fanart="https://m.media-amazon.com/images/M/MV5BNTk2NzEyNTQtZTQ5MS00MjAyLTgzMDMtNDNkYTBkM2M2OTU3XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg"&plot=" פרק 2"&imdbid=" "&year=" "&data=@@{"title":" בוב ספוג ","Season": " ","Episode": " ","originaltitle": " בוב ספוג ","year": " ","dateadded": "2018-06-5 17:03:23","plot": " פרק 2","heb title": " בוב ספוג ","mediatype": "tv","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": "https://m.media-amazon.com/images/M/MV5BNTk2NzEyNTQtZTQ5MS00MjAyLTgzMDMtNDNkYTBkM2M2OTU3XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg","icon": "https://m.media-amazon.com/images/M/MV5BNTk2NzEyNTQtZTQ5MS00MjAyLTgzMDMtNDNkYTBkM2M2OTU3XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg"}@@</item-3>
 </category-3>
 </category-2>
+<category-2>
+<category_name-2>name="ערוץ סרטים ישראלים"&icon="https://wallpaperhdzone.com/wp-content/uploads/2016/07/movies-wallpaper2.jpg"&fanart="https://wallpaperhdzone.com/wp-content/uploads/2016/07/movies-wallpaper2.jpg"&plot="ערוץ סרטים ישראלים"&data=@@ @@</category_name-2>
+<category-3>
+<item-3>name="משפחת צנעני"&link="https://fv5.failiem.lv/down.php?i=r8f68fhg&n=Mishpahat.Tzan%27ani.1976.DVDRip.XviD-iSrael.avi"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" איביזה 2018","Season": " ","Episode": " ","originaltitle": " איביזה 2018","year": " ","dateadded": "2018-06-5 19:16:50","plot": " ","heb title": " איביזה 2018","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item-3>
+</category-3>
+<category-3>
+<item-3>name="נישואין פיקטיביים"&link="https://fv5.failiem.lv/down.php?i=vvtdmdn4&n=Nisuim.Fiktiveem.1988.PDTV.XviD-Silver007.avi"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" איביזה 2018","Season": " ","Episode": " ","originaltitle": " איביזה 2018","year": " ","dateadded": "2018-06-5 19:16:50","plot": " ","heb title": " איביזה 2018","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item-3>
+</category-3>
+<category-3>
+<item-3>name=" נשיקה במצ'ח"&link=" https://fv5.failiem.lv/down.php?i=znpt3kwk&n=Neshika.Bametzach.1990.PDTV.XviD-Sweet-Star.avi"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" נשיקה במצ'ח","Season": " ","Episode": " ","originaltitle": " נשיקה במצ'ח","year": " ","dateadded": "2018-06-5 19:28:44","plot": " ","heb title": " נשיקה במצ'ח","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item-3>
+</category-3>
+<category-3>
+<item-3>name="אליס"&link="https://fv5.failiem.lv/down.php?i=yfgzybmx&n=Alice.2012.WS.WEBRip.XviD-Silver007.avi"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":" נשיקה במצ'ח","Season": " ","Episode": " ","originaltitle": " נשיקה במצ'ח","year": " ","dateadded": "2018-06-5 19:28:44","plot": " ","heb title": " נשיקה במצ'ח","mediatype": "movie","genre": " ","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": " ","icon": " "}@@</item-3>
+</category-3>
+</category-2>
 </category>
